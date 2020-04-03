@@ -3,4 +3,4 @@ In this project, our main idea is to support stray dogs. We have basically creat
   2.) One can also purchase dogs which they might find nice for themselves.
   3.) We will also post the dogs on our website so that our users can select an appropriate breed dog for themselves.
   
- To sum up, we've tried to build something which will take care of dogs and in return our society will be more safer and happy. :-)
+ To sum up, we've tried to build something which will take care of dogs and in return our society will be more safer and happy :-)
